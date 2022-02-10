@@ -1,7 +1,7 @@
 //import { f } from ".";
 // vscode infers module import style:
 //  https://code.visualstudio.com/docs/languages/javascript
-const {f} = require('.');
+const { f } = require('.');
 const { g } = require('./index2');
 
 describe('Name of the group', () => {
